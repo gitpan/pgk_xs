@@ -1,0 +1,5 @@
+
+Oh, it's just an Object Oriented GTK binding. 
+Has been tested with perl 5.6.1 on AIX 4.3.3
+and perl 5.8.0 on a MINGW32 Windows 2000 system.
+
